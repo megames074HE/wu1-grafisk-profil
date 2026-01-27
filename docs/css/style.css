@@ -36,13 +36,13 @@
     --space-s-l: clamp(1.125rem, 0.5625rem + 2.5vw, 2.5rem);
 
     /* Variabler för färger */
-    --primary-color: #3498db;
-    --secondary-color: #2ecc71;
+    --primary-color: #FFC42F;
+    --secondary-color: #0C64BE;
     --color-dark: #333;
     --color-light: #f9f9f9;
 
     /* Variabler för typografi */
-    --type-heading: sans-serif;
+    --type-heading: Montserrat;
     --type-body: serif;
     --line-height-body: 1.6;
     --line-height-heading: 1.1;
