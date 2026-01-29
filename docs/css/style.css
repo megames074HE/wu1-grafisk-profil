@@ -42,8 +42,8 @@
     --color-light: #f9f9f9;
 
     /* Variabler för typografi */
-    --type-heading: Montserrat;
-    --type-body: serif;
+    --type-heading: Roboto;
+    --type-body: Montserrat;
     --line-height-body: 1.6;
     --line-height-heading: 1.1;
 
